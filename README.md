@@ -1,9 +1,9 @@
 ## 👋 Hi! I'm Wayland Yang
 <p align="left">
 
+  <img src="https://img.shields.io/badge/AI%20Infra-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Architecture-2C3E6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full--Stack-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Infra-111111?style=for-the-badge"/>
   
 </p>
 
