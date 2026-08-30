@@ -17,3 +17,4 @@ Follow me on：
 <a href="https://xhslink.com/m/9wUbLGmyDCf" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
 
 我正在寻求合作伙伴/融资，邮件我一般会当日回复。
+wayland0916@gmail.com
