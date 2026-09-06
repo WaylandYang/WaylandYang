@@ -12,7 +12,7 @@
 AI infrastructure · System architecture · Full-stack engineering<br/>
 Building production-grade systems across distributed infrastructure, backend architecture, and modern web applications.
 
-Based in Beijing, China & Singapore
+Based in Beijing, China & Singapore<br/>
 Outside of engineering, I enjoy playing the Irish flute and traveling by motorcycle.
 
 Follow me on：
