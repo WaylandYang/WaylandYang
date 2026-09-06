@@ -12,6 +12,9 @@
 AI infrastructure · System architecture · Full-stack engineering<br/>
 Building production-grade systems across distributed infrastructure, backend architecture, and modern web applications.
 
+Based in Beijing, China & Singapore
+Outside of engineering, I enjoy playing the Irish flute and traveling by motorcycle.
+
 Follow me on：
 
 <a href="https://xhslink.com/m/9wUbLGmyDCf" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
