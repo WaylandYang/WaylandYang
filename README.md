@@ -9,7 +9,7 @@
 
 
 
-AI infrastructure · System architecture · Full-stack engineering<br/>
+AI infrastructure · Ontology · System architecture · Full-stack engineering<br/>
 Building production-grade systems across distributed infrastructure, backend architecture, and modern web applications.
 
 Based in Beijing, China & Singapore<br/>
